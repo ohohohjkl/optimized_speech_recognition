@@ -1,0 +1,8 @@
+﻿  main.c
+d:\visual_studio_workspace\master_code\real_time_predictor\mfcc_voice_recogition\main.c(39): warning C4013: 'record_audio_to_database2' undefined; assuming extern returning int
+d:\visual_studio_workspace\master_code\real_time_predictor\mfcc_voice_recogition\main.c(147): warning C4013: 'real_time_predict' undefined; assuming extern returning int
+d:\visual_studio_workspace\master_code\real_time_predictor\mfcc_voice_recogition\main.c(150): warning C4013: 'getch' undefined; assuming extern returning int
+d:\visual_studio_workspace\master_code\real_time_predictor\mfcc_voice_recogition\main.c(175): warning C4133: 'initializing': incompatible types - from 'int **' to 'char **'
+d:\visual_studio_workspace\master_code\real_time_predictor\mfcc_voice_recogition\main.c(237): warning C4101: 'model': unreferenced local variable
+d:\visual_studio_workspace\master_code\real_time_predictor\mfcc_voice_recogition\main.c(304): warning C4101: 'fbanks': unreferenced local variable
+  MFCC_Voice_Recogition.vcxproj -> D:\Visual_Studio_Workspace\master_code\real_time_predictor\x64\Debug\MFCC_Voice_Recogition.exe
